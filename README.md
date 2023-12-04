@@ -84,6 +84,6 @@ Our comprehensive analysis of the Global Superstore dataset yielded valuable ins
 
 By implementing these recommendations, Global Superstore can optimize its business operations, enhance its profitability, and establish a competitive edge in the global retail landscape.
 
-You can connect with me on [LinkedIn.](https://www.linkedin.com/in/kester-ejiofobiri/)
+You can connect with me on [Linkedin.](https://www.linkedin.com/in/kester-ejiofobiri/)
 
-THANK YOU!
+**THANK YOU!**
