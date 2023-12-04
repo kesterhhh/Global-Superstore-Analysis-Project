@@ -1,1 +1,1 @@
-# Global-Superstore-Analysis-Project
+# Global Superstore Analysis Project
