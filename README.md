@@ -83,3 +83,7 @@ Our comprehensive analysis of the Global Superstore dataset yielded valuable ins
 - Leverage data-driven decision-making: Continuously monitor sales trends, profitability metrics, and customer behavior using data analytics tools. Utilize these insights to make informed decisions about product assortment, pricing strategies, and marketing campaigns.
 
 By implementing these recommendations, Global Superstore can optimize its business operations, enhance its profitability, and establish a competitive edge in the global retail landscape.
+
+You can connect with me on [LinkedIn.](https://www.linkedin.com/in/kester-ejiofobiri/)
+
+THANK YOU!
