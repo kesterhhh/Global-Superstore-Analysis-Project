@@ -6,12 +6,12 @@
 This is a PowerBI project on sales analysis on an imaginary **Global Superstore**.
 The project is to analyze and answer crucial questions, enhance performance and profitability, extract meaningful insights, and help make data-driven decisions on global superstore sales.
 
-**_Disclaimer_**: _All Datasets report do not represent any company, instuition or country, but just a practice dataset to demonstrate the capabilities of PowerBi._
+**_Disclaimer_**: _All Datasets report do not represent any company, intuition, or country, but just a practice dataset to demonstrate the capabilities of PowerBi._
 
 ## Problem Statement
 1. Identifying the top three countries with the highest total profit and their most profitable products in 2014
 2. Determining the three subcategories with the highest average shipping cost in the United States
-3.Assessing Nigeria's profitability in 2014 compared to other African countries and exploring potential factors influencing its performance
+3. Assessing Nigeria's profitability in 2014 compared to other African countries and exploring potential factors influencing its performance
 4. Identifying the least profitable product subcategory in Southeast Asia and evaluating whether Global Superstore should discontinue offering it in a specific country within the region
 5. Determining the least profitable city in the United States (excluding cities with less than 10 orders) and analyzing the underlying reasons for its low profitability
 6. Identifying the product subcategory with the highest average profit in Australia
@@ -28,15 +28,15 @@ The project is to analyze and answer crucial questions, enhance performance and 
 
 ## Modeling:
 This Model is a star schema
-The dataset consisted of three tables: Orders, Returns, and People. The Orders table contained the primary data for each transaction, while the Returns and People tables provided supplementary information. The Orders table served as the fact table, linking the other two tables through shared fields.
+The dataset consisted of three tables: orders, returns, and people. The Orders table contained the primary data for each transaction, while the Returns and People tables provided supplementary information. The Orders table served as the fact table, linking the other two tables through shared fields.
 
 ## Visualization
 
-The report contains 5 pages:
-1. Top Performing Countries and Products
+The report contains five pages:
+1. Top-Performing Countries and Products
 2. United States
 3. Nigeria's Profit
-4. Sub Categories In Southeast Asia
+4. Subcategories in Southeast Asia
 5. Top 5 Customers
 
 You can interact with the report [here](https://app.powerbi.com/reportEmbed?reportId=c01e15d9-88c9-404a-8c9b-0e6964ad7419&autoAuth=true&ctid=517d3502-2901-4de2-a87b-95c507a9a088)
