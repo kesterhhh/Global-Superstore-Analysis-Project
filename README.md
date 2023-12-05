@@ -3,10 +3,10 @@
 ![](Store-Cart.jpg)
 
 ## Introduction
-This is a Power Bi project on sales analysis on an imaginery **Global Superstore**.
-The project is to analyze and answer crucial questions, to enhance performance and profitability, to extract meaningful insights, and help make data driven decision on the Global Superstore Sales.
+This is a PowerBI project on sales analysis on an imaginary **Global Superstore**.
+The project is to analyze and answer crucial questions, enhance performance and profitability, extract meaningful insights, and help make data-driven decisions on global superstore sales.
 
-**_Descailmer_**: _All Datasets report do not represent any company, instuitin or country, but just a practice dataset to demonstrate the capabilities of Power Bi._
+**_Disclaimer_**: _All Datasets report do not represent any company, instuition or country, but just a practice dataset to demonstrate the capabilities of PowerBi._
 
 ## Problem Statement
 1. Identifying the top three countries with the highest total profit and their most profitable products in 2014
