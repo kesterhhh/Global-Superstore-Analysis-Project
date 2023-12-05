@@ -39,7 +39,7 @@ The report contains five pages:
 4. Subcategories in Southeast Asia
 5. Top 5 Customers
 
-You can interact with the report [here](https://app.powerbi.com/reportEmbed?reportId=c01e15d9-88c9-404a-8c9b-0e6964ad7419&autoAuth=true&ctid=517d3502-2901-4de2-a87b-95c507a9a088)
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMTQ3YmNjYzEtOTc3ZC00MmE4LThkNWUtN2VkMDIxNjRlZWE5IiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9)
 
 ![](Top-Performing-Countries-And-Products.jpg)
 
