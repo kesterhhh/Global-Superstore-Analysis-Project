@@ -3,7 +3,7 @@
 ![](Store-Cart.jpg)
 
 ## Introduction
-This is a PowerBI project on sales analysis on an imaginary **Global Superstore**.
+This is a Power BI project on sales analysis on an imaginary **Global Superstore**.
 The project is to analyze and answer crucial questions, enhance performance and profitability, extract meaningful insights, and help make data-driven decisions on global superstore sales.
 
 **_Disclaimer_**: _This report is based on a practice dataset and does not represent any actual company, institution, or country. It is intended to demonstrate the capabilities of Power BI._
