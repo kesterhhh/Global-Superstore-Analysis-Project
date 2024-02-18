@@ -39,8 +39,6 @@ The report contains five pages:
 4. Subcategories in Southeast Asia
 5. Top 5 Customers
 
-![](Top-Performing-Countries-And-Products.jpg)
-
 Features:
 - The buttons are interactive navigation buttons with page redirection and hover effects.
 
@@ -48,6 +46,8 @@ Features:
 
 ### Top Performing Countries and Products:
 The United States, India, and China emerged as the top three countries with the highest total profit in 2014, with the United States accounting for nearly half of the total profit.
+
+![](Top-Performing-Countries-And-Products.jpg)
 
 ### United States:
 ![](United-States.jpg)
