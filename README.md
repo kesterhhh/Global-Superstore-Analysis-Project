@@ -39,8 +39,6 @@ The report contains five pages:
 4. Subcategories in Southeast Asia
 5. Top 5 Customers
 
-You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYmUzYmUxMTQtMDMwOC00MWQzLWJhMjctNWVlY2U3OTBmZWQyIiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9)
-
 ![](Top-Performing-Countries-And-Products.jpg)
 
 Features:
@@ -70,6 +68,8 @@ Indonesia emerged as the country where the "Tables" sub-category incurred signif
 ![](Top-5-Customers.jpg)
 
 The top five customers demonstrated diverse purchasing patterns, with varying preferences for product subcategories.
+
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiYmUzYmUxMTQtMDMwOC00MWQzLWJhMjctNWVlY2U3OTBmZWQyIiwidCI6IjUxN2QzNTAyLTI5MDEtNGRlMi1hODdiLTk1YzUwN2E5YTA4OCJ9)
 
 ## Conclusion and Recommendations
 
